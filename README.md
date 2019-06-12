@@ -1,5 +1,8 @@
-# machinelearning
-Machine learning assignment
+# machinelearning & deep learning related practice
 
-11/3 add hand build adaboost algorithm
+## Autonomous driving - Car Detection  
+## Face Recognition  
+## Sign Language Recognition  
+## Neural Style Transfer  
+## Adaboost Algorithm  
 
